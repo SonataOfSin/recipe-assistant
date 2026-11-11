@@ -1,0 +1,4 @@
+-r requirements.txt
+asyncpg>=0.29
+psycopg[binary,pool]>=3.2
+langgraph-checkpoint-postgres>=3.0,<4.0
